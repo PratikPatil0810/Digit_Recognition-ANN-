@@ -5,3 +5,4 @@ tensorflow
 cv2
 os
 Dataset (from Kaggle) - Digit Recognizer 'https://www.kaggle.com/competitions/digit-recognizer/data?select=train.csv'
+Test Data (Handwritten digits) - my_images(folder contains digits from 0 to 9)
