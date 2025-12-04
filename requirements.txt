@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+cv2
+os
+Dataset (from Kaggle) - Digit Recognizer 'https://www.kaggle.com/competitions/digit-recognizer/data?select=train.csv'
